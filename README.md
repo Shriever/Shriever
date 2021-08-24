@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on learning open source and sharing my journey.
-- 🌱 I’m currently learning MERN stack and open source.
+- 🌱 I’m currently learning open source and getting to know people in software.
 - 👯 I’m looking to collaborate on well-maintained JavaScript projects.
 - 🤔 I’m looking for help with finding cool repositories. Hit me up!
 - 💬 Ask me about what I want to do when I grow up.
