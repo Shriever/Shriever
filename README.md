@@ -2,8 +2,8 @@
 
 
 - 🔭 I’m currently working on evolving to full-stack.
-- 🌱 I’m currently learning GraphQL and Chakra-ui.
-- 👯 I’m looking to collaborate on ReactJS projects.
+- 🌱 I’m currently learning PostgreSQL and Redis.
+- 👯 I’m looking to collaborate on PERN projects.
 - 🤔 I’m looking for help with finding cool repositories. Hit me up!
 - 💬 Ask me about my love for Ben Awad.
 - ⚡ Fun fact: I really like music production. Pop, Rap, Hip-Hop, Metal, Jazz, Punk. 
