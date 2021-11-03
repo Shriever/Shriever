@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on evolving to full-stack.
-- 🌱 I’m currently learning GraphQL and TypeORM.
+- 🌱 I’m currently learning TDD and React Testing Library.
 - 👯 I’m looking to collaborate on PERN projects.
 - 🤔 I’m looking for help with finding cool repositories. Hit me up!
 - 💬 Ask me about my love for Ben Awad.
