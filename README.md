@@ -1,16 +1,21 @@
-### Hola! I'm Levi Lieberman A.K.A Shriever 👋
+# 👋 Hi there, I'm [Your Name/GitHub Username]!
 
+I'm a budding blockchain developer excited to dive into the decentralized world. Currently, I'm focused on building my skills and understanding the core technologies that power Web3.
 
-- 🔭 I’m currently working on evolving to full-stack.
-- 🌱 I’m currently learning TDD and React Testing Library.
-- 👯 I’m looking to collaborate on PERN projects.
-- 🤔 I’m looking for help with finding cool repositories. Hit me up!
-- 💬 Ask me about my love for Ben Awad.
-- ⚡ Fun fact: I really like music production. Pop, Rap, Hip-Hop, Metal, Jazz, Punk. 
-- 📫 How to reach me: LinkedIn messaging. <a href="https://www.linkedin.com/in/levi-lieberman-b80960108/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+## 🌱 What I'm Learning
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Shriever&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shriever&theme=tokyonight" />
-</p>
+* **Solidity:** Mastering the language for smart contract development on the Ethereum blockchain.
+* **TypeScript:** Enhancing my JavaScript skills for robust and scalable dApp development.
+* **Hardhat:** Exploring this powerful development environment to test, deploy, and debug smart contracts efficiently.
 
+## 🚀 My Goals
+
+* **Contribute to Open Source:** Eager to learn from experienced developers and contribute to meaningful blockchain projects.
+* **Build Decentralized Applications:** Applying my knowledge to create innovative and impactful dApps.
+* **Expand My Network:** Connecting with fellow blockchain enthusiasts and developers.
+
+## 🤝 Let's Connect!
+
+I'm always open to collaborating on projects, discussing new ideas, or just chatting about blockchain. Feel free to reach out!
+
+* <a target="_blank" href="https://www.linkedin.com/in/levi-lieberman-b80960108/">LinkedIn</a>
