@@ -1,6 +1,6 @@
-# 👋 Hi there, I'm [Your Name/GitHub Username]!
+# 👋 Hi there, I'm Levi Lieberman (Shriever)!
 
-I'm a budding blockchain developer excited to dive into the decentralized world. Currently, I'm focused on building my skills and understanding the core technologies that power Web3.
+I'm a blockchain developer excited to dive into the decentralized world. Currently, I'm focused on building my skills and understanding the core technologies that power Web3.
 
 ## 🌱 What I'm Learning
 
